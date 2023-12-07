@@ -46,6 +46,12 @@ remote: Total 125 (delta 56), reused 94 (delta 36), pack-reused 0
 Receiving objects: 100% (125/125), 42.20 KiB | 194.00 KiB/s, done.
 Resolving deltas: 100% (56/56), done.
 
+$ git lfs install
+Updated Git hooks.
+Git LFS initialized.
+
+$ git lfs pull
+
 $ cd Terrain3D
 
 Terrain3D$ git submodule init
